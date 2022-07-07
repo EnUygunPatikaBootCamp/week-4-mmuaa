@@ -1,3 +1,6 @@
+Konsol Uygulaması : src/Command/ArrayLengthCommand.php içindedir.
+Web Uygulaması : src/Controller/WebAppController.php içindedir.
+
 # Research
 
 ## Question 1:
